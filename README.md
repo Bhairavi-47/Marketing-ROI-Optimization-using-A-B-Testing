@@ -21,7 +21,7 @@ The primary objectives of this project are:
 - Identify statistically significant differences in performance
 - Provide strategic recommendations for optimal budget allocation
 
-This project aims to support business decision-making through statistical analysis and marketing analytics.
+This project aims to support business **decision-making** through statistical analysis and marketing analytics.
 
 ---
 
