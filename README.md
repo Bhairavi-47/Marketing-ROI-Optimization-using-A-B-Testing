@@ -76,8 +76,8 @@ The following analytical techniques will be implemented in upcoming phases:
 | Phase | Status |
 |--------|--------|
 | Business Understanding | Completed |
-| Python Implementation | In Progress |
-| Statistical Modeling | Upcoming |
+| Python Implementation | Completed |
+| Statistical Modeling | Completed |
 | Report & Documentation | Upcoming |
 | Visualizations & Insights | Upcoming |
 
