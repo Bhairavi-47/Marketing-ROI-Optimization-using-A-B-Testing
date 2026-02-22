@@ -57,7 +57,7 @@ The dataset enables both cross-platform comparison and time-based trend analysis
 
 ---
 
-## Planned Analytical Approach
+## Analytical Approach
 
 The following analytical techniques will be implemented in upcoming phases:
 
@@ -78,8 +78,7 @@ The following analytical techniques will be implemented in upcoming phases:
 | Business Understanding | Completed |
 | Python Implementation | Completed |
 | Statistical Modeling | Completed |
-| Report & Documentation | Upcoming |
-| Visualizations & Insights | Upcoming |
+| Key Insights | Upcoming |
 
 ---
 
