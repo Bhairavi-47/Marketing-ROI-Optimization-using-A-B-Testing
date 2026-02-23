@@ -71,14 +71,82 @@ The following analytical techniques will be implemented in upcoming phases:
 
 ---
 
-## Project Roadmap
+# Key Insights
 
-| Phase | Status |
-|--------|--------|
-| Business Understanding | Completed |
-| Python Implementation | Completed |
-| Statistical Modeling | Completed |
-| Key Insights | Upcoming |
+## 1) Conversion Performance :-
+
+- Mean Daily Conversions:
+  - **Facebook:** 11.74
+  - **AdWords:** 5.98
+
+Facebook generates nearly **2x higher conversions** on average.
+
+---
+
+## 2) Click-to-Conversion Relationship :-
+
+- Correlation Coefficient:
+  - **Facebook:** 0.87 (Strong Positive)
+  - **AdWords:** 0.45 (Moderate Positive)
+
+Facebook clicks translate into conversions much more efficiently.
+
+---
+
+## 3) Statistical Significance :-
+
+- T-statistic: 32.88  
+- P-value: 9.35e-134  
+
+The difference in conversions is statistically significant (p < 0.05).  
+Facebook clearly outperforms AdWords.
+
+---
+
+## 4) Predictive Modeling :-
+
+- R² Score (Facebook Regression Model): 76.35%
+- Strong predictive power between clicks and conversions.
+
+Facebook campaign scaling is highly predictable.
+
+---
+
+## 5) Cost Efficiency Trends :-
+
+- Lower Cost Per Conversion observed in May & November.
+- February shows highest CPC.
+
+ Strategic monthly budget adjustments can further optimize ROI.
+
+---
+
+# Strategic Recommendation 
+
+- Increase budget allocation toward Facebook campaigns.
+- Optimize Facebook creatives to leverage strong click-conversion relationship.
+- Monitor monthly CPC trends for cost-efficient spending.
+- Further investigate optimization opportunities within AdWords campaigns.
+
+---
+
+## Visualizations
+
+All charts and analytical visualizations are available in the `/visuals` folder.
+
+---
+
+## Tools Used
+
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- SciPy
+- Scikit-learn
+- Statsmodels
+- Jupyter Notebook
 
 ---
 
